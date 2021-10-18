@@ -1,5 +1,8 @@
 _repo: Degre-Alajos-novellai-3-kotet_66402
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Degré, Alajos
@@ -12,6 +15,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Degr%C3%A9_Alajos_(%C3%BCgyv%C3%A9d)
     - https://en.wikipedia.org/wiki/Alajos_Degr%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66402#Degre-Alajos-novellai-3-kotet
 gutenberg_issued: '2021-09-28'
 identifiers:
   gutenberg: '66402'
